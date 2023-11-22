@@ -1,3 +1,5 @@
+package TuesdayNov07;
+
 public class TuesNov07 {
     public static void main(String[] args) {
 

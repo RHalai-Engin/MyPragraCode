@@ -41,7 +41,7 @@ public class Exercise2 {
                 System.out.println("Bringing you customer support menu");
                 break;
             case 5:
-                System.out.println("Taking you back to Main Menu");
+                System.out.println("Taking you back to TuesdayNov07.Main Menu");
                 System.out.println("1. Mobile");
                 System.out.println("2. Internet");
                 System.out.println("3. Tv");
