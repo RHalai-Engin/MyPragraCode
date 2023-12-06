@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ArrayExercise {
     public static void main(String[] args) {
-        /*int [] ar = {2,5,2,4,32,5,23,53,23,6};
+        int [] ar = {2,5,2,4,32,5,23,53,23,6};
         int start = 0;
         int end = ar.length -1;
 
@@ -56,8 +56,7 @@ public class ArrayExercise {
             System.out.print(na + " ");
         }
 //let's find the minimum and maximun element in an array
-*/
-        int [] ar2 = {45,10,25,56,48,47}; //we will use this array
+        //int [] ar2 = {45,10,25,56,48,47}; //we will use this array
         int min = ar2[0]; // we will define a variable minimum assign value of ar2 0th index
         int max = ar2[0]; //we will define a variable maximum assign value of ar2 0th index
         for(int i = 0; i < ar2.length; i++ ){
