@@ -1,4 +1,4 @@
-package SaturdayDec02.OOP.Inheritance;
+package SaturdayDec02.OOP.Inheritance.Exercises.Exercise1;
 
 public class EmiratesBoeing777 {
     String propellers;
