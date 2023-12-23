@@ -38,9 +38,9 @@ Method overriding is possible only between two or more classes
 
 /*
 Final keyword
-Final --> Variable -->
-Final --> Method -->
-Final --> Class -->
+Final --> Variable --> Constant
+Final --> Method --> Can not be overridden
+Final --> Class --> can not be inherited 
 */
 
 /*
