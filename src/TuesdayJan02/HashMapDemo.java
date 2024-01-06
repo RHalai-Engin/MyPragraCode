@@ -25,7 +25,7 @@ public class HashMapDemo {
         //^^It will look for Nokia, if it can't find, will return null
         System.out.println(device.getOrDefault("IPhone", 1900));
         //^^It will look for java, if it can find, will return Iphone(value from Map) but won't override value
-        device.replace("IPhone", 1500); //This will replce the value for IPhone
+        device.replace("IPhone", 1500); //This will replace the value for IPhone
         System.out.println(device);
         device.replace("OnePlus", 1500, 1700);
         System.out.println(device);
