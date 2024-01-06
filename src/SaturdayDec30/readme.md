@@ -9,8 +9,8 @@ find out the employees having the highest salary [Using java 8]
 3. It only supports/allows 1 null
 
 ---> HashSet - No order, No duplicates
-TreeSet - Does not allow any null, elements are stored in ascending order, Doesn't accept Duplicate
-LinkedHasSet - elements are stored in insertion order, allows 1 null, No duplicates
+---> TreeSet - Does not allow any null, elements are stored in ascending order, Doesn't accept Duplicate
+---> LinkedHasSet - elements are stored in insertion order, allows 1 null, No duplicates
 
 ---> CopyOnWriteArrayList - Thread safe variant of arraylist
 
